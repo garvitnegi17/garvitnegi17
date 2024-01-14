@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering and in Soccer
 - 🌱 I’m currently learning Css and JS for frontend Web Development
 - 💞️ I’m looking for collaboration in future
-- 📫 How to reach me linkdIn link
+- 📫 Reach me through LinkedIn link
 - 😄 Pronouns: (his/him)
 - ⚡ Fun fact: Crack good jokes also 😅😅
 
