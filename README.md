@@ -4,7 +4,7 @@
 - 💞️ I’m looking for collaboration in future
 - 📫 Reach me through LinkedIn link
 - 😄 Pronouns: (his/him)
-- ⚡ Fun fact: Crack good jokes also 😅😅 🦎
+- ⚡ Fun fact: Crack good jokes also 😅😅
 
 <!---
 garvitnegi17/garvitnegi17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
