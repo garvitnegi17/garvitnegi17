@@ -1,3 +1,18 @@
+[![An image of @garvitnegi17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/garvitnegi17)](https://holopin.io/@garvitnegi17)
+Footer
+
+Holographic
+Twitter
+GitHub
+Facebook
+Instagram
+Our memberships and certifications
+
+
+W3C Member logo
+Cyber Essentials logo
+1EdTech logo
+Product
 - 👋 Hi, I’m @garvitnegi17
 - 👀 I’m interested in software engineering and in Soccer
 - 🌱 I’m currently learning Css and JS for frontend Web Development
