@@ -14,6 +14,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 #### My GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=garvitnegi17&theme=react&hide_border=true)
+## :octocat: GitHub Analytics
+
+  <div align="center">
+    
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=garvitnegi17&theme=react&hide_border=true" alt="GitHub Stats" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garvitnegi17&theme=react&hide_border=true" alt="Top Languages" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitnegi17&theme=react&hide_border=true">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garvitnegi17&theme=react&hide_border=true" alt="Graph of Commits" />
+
+
+</div>
 
 --- 
